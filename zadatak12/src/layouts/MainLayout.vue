@@ -73,16 +73,16 @@ const linksList = [
     link: 'https://chat.quasar.dev'
   },
   {
+    title: 'Unos',
+    caption: '@QuasarFramework',
+    icon: 'public',
+    link: '#/unos'
+  },
+  {
     title: 'Forum',
     caption: 'forum.quasar.dev',
     icon: 'record_voice_over',
     link: 'https://forum.quasar.dev'
-  },
-  {
-    title: 'Twitter',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev'
   },
   {
     title: 'Facebook',
