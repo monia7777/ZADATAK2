@@ -4,3 +4,6 @@
 # git config user.name "monia7777"
 # git add README.md
 # git commit -m "1.edit README"
+# npm i -g @quasar/cli
+# npm init quasar
+# quasar dev
