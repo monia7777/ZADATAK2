@@ -7,3 +7,4 @@
 # npm i -g @quasar/cli
 # npm init quasar
 # quasar dev
+# test
